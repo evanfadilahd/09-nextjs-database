@@ -7,7 +7,7 @@
 | Kelas | TI - 3I |
 
 
-### Practicum 1
+### Practicum 1 <br />
 
 ## Problem 1
 
@@ -33,3 +33,15 @@
 
 <br />
 
+## Problem 3
+
+"Capture the results of your npm run seed and generate a report in the README.md file. Explain what you have learned?"
+
+![Screenshot](assets-report/1.3.png)
+
+    We can seed our data to the database using command 'npm run seed'.
+    It takes the command from the package.json file in the line scripts and run the "node -r dotenv/config ./src/seeder/seed.js"
+    
+    Sometimes, it will have problem when doing it for the first time, like in the depedencies or the filepath.
+
+<br />
