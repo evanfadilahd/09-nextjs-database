@@ -45,3 +45,26 @@
     Sometimes, it will have problem when doing it for the first time, like in the depedencies or the filepath.
 
 <br />
+
+## Problem 4
+
+"Capture your query results and report them in the README.md file. Explain what you have learned?"
+
+![Screenshot](assets-report/1.4-1.png)
+
+    We can seed our data to the database using command 'npm run seed'.
+    It takes the command from the package.json file in the line scripts and run the "node -r dotenv/config ./src/seeder/seed.js"
+    
+    Sometimes, it will have problem when doing it for the first time, like in the depedencies or the filepath. 
+
+<br />
+
+"Try to execute another SQL query according to your creation, capture the results and explain!"
+
+![Screenshot](assets-report/1.4-1.png)
+
+    The table invoices and customer is actually related to each other because have the foreign key 'customer_id'
+
+    With that, we can join the table and see the result of that two table.
+
+<br />
