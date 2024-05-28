@@ -68,3 +68,19 @@
     With that, we can join the table and see the result of that two table.
 
 <br />
+
+
+### Practicum 2 <br />
+
+## Problem 5
+
+"Do a push, then look at your Vercel project dashboard account. Capture and attach a link to your application that has been successfully deployed, then make a report in the README.md file. Explain what you have learned?"
+
+![Screenshot](assets-report/2.5.png) <br />
+
+    https://09-nextjs-database-woad.vercel.app/ <br />
+
+    The Vercel automatically deploying the latest version of App we have in our Github Reposity. In my Vercel dashboard, it checks the code then deploying it automatically.
+
+<br />
+
