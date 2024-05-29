@@ -105,3 +105,24 @@
 
 <br />
 
+
+### Practicum Assignment <br />
+
+## No.1
+
+"If you pay attention to the src\app\page.tsx file for the Card component, it has actually been created as molecules in the src\app\components\molecules\card.tsx file, namely the CardWrapper component. Please adjust it so that it looks like the following image."
+
+![Screenshot](assets-report/3.1.png) <br />
+
+    Finish!
+
+<br />
+
+## No.2
+
+"Pay attention to the fetchCardData() function (in the src\model\query.tsx file) from problem number 1. Explain the purpose of the code and the query carried out in this function!"
+
+    This function fetches summary data for a dashboard card from a PostgreSQL database. 
+    It executes three SQL queries in parallel to retrieve the count of invoices, count of customers, and total paid and pending amounts of invoices. 
+
+<br />
