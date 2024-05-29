@@ -84,3 +84,24 @@
 
 <br />
 
+## Problem 6
+
+"Capture and push the results, then create a report in the README.md file. Explain what you have learned?"
+
+![Screenshot](assets-report/2.6.png) <br />
+
+    The revenue set the lenght of the graph into 12 (months) and the label make the last month (december) make into a new coloumn below them...
+    To fix that we need to add the lenght of graph into 13, but I still hasn't find the way... so I just make the label into fixed and make it into the top of the graph
+
+<br />
+
+## Problem 7
+
+"Capture and push the results, then create a report in the README.md file. Explain what you have learned?"
+
+![Screenshot](assets-report/2.7.png) <br />
+
+    The customer photo is saved into the public, and because the photo is not generated when we make a new project. We need to find it ourselves!
+
+<br />
+
