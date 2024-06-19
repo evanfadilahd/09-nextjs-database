@@ -126,3 +126,15 @@
     It executes three SQL queries in parallel to retrieve the count of invoices, count of customers, and total paid and pending amounts of invoices. 
 
 <br />
+
+### Week 10 <br />
+
+## Practicum No.1
+
+"Try running it on localhost, capture the results and make a report in README.md. Explain what you have learned and how it looks now? Are there any errors?"
+
+![Screenshot](assets-report/w10.1.png) <br />
+
+    Finish!
+
+<br />
