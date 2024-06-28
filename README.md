@@ -146,3 +146,20 @@
 ![Screenshot](assets-report/w10.2.3.png) <br />
 
 <br />
+
+## Practicum No.3
+"Please save everything and run it in your browser. Capture the results and create a report in README.md."<br />
+
+    1.Are there any errors or features that are not yet working? if not, please fix it! (Not Finished)
+
+![Screenshot](assets-report/w10.3.1.png) <br />
+    Still can't login! 
+
+<br />
+
+    2.Does accessing the root URL path ( / ) redirect to the login page? if not, please fix it! (Yes)
+
+![Screenshot](assets-report/w10.2.2.png) <br />
+    It redirect!
+
+<br />

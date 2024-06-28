@@ -1,10 +1,13 @@
+// 
+
 import NextAuth from 'next-auth';
 import Credentials from 'next-auth/providers/credentials';
 import { sql } from '@vercel/postgres';
 import { z } from 'zod';
 import type { User } from '@/app/lib/definitions';
 import { authConfig } from './auth.config';
-import bcrypt from 'bcryptjs';
+
+const bcrypt = require('bcrypt');
 
 async function getUser(email: string): Promise<User | undefined> {
   try {
@@ -38,6 +41,10 @@ export const { auth, signIn, signOut } = NextAuth({
         console.log('Invalid credentials');
         return null;
       },
+      credentials: {
+        email: {},
+        password: {},
+      }
     }),
   ],
 });
