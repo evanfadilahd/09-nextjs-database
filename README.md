@@ -159,7 +159,7 @@
 
     2.Does accessing the root URL path ( / ) redirect to the login page? if not, please fix it! (Yes)
 
-![Screenshot](assets-report/w10.2.2.png) <br />
+![Screenshot](assets-report/w10.3.2.png) <br />
     It redirect!
 
 <br />
