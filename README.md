@@ -135,6 +135,14 @@
 
 ![Screenshot](assets-report/w10.1.png) <br />
 
-    Finish!
+    We can use bycrpt to make our website have authentication, in this case because it not redirecting to any page, there is no notification that is been working!
+
+<br />
+
+## Practicum No.2
+
+![Screenshot](assets-report/w10.2.1.png) <br />
+![Screenshot](assets-report/w10.2.2.png) <br />
+![Screenshot](assets-report/w10.2.3.png) <br />
 
 <br />
